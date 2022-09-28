@@ -1,0 +1,15 @@
+id = 0d5917f8-2199-4746-a4cc-7a317e067111
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"store.json","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
